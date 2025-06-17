@@ -1,0 +1,6 @@
+requests
+pandas
+pytrends
+python-dotenv
+google-api-python-client
+apify-client
